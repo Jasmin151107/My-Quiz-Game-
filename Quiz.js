@@ -69,7 +69,7 @@ class Quiz {
       fill("red")
 
       
-      displayPosition = displayPosition+20
+      displayPosition = displayPosition+30
       textSize(25);
       text(allContestants[plr].name+ ":" +allContestants[plr].answer,120,displayPosition);
      
