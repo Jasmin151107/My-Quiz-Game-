@@ -53,7 +53,7 @@ class Quiz {
 
     fill("blue");
     textSize(20);
-    text(" *NOTE Contestant who answered coorect are highlighted in green color!",130,230);
+    text(" *NOTE Contestant who answered correct are highlighted in green color!",130,230);
 
     //write code to highlight contest who answered correctly
 
